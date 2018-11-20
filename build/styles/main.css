@@ -1,0 +1,45 @@
+.nav {
+	background-color: black;
+	font-size: 1.5em;
+}
+
+.Center{
+	text-align: center;
+}
+ 
+h1 {
+	margin: 0px;
+	padding: 0px;
+}
+.jumbotron{
+	margin-top: 150px;
+}
+ 
+.body{
+	margin:0px;
+	padding:0px;
+}
+
+.BacktoTop {
+    margin-left: 20px;
+}
+
+a:visited {
+    color: white;
+}
+
+a:link {
+    color: white;
+}
+
+#name{
+	padding-top: 50px;
+}
+
+#About_Me{
+	margin-top: 150px;
+}
+
+#aboutPic{
+	height: 250px;
+}
