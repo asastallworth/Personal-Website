@@ -25,12 +25,13 @@ h1 {
 }
 
 a:visited {
-    color: white;
+    color: black;
 }
 
 a:link {
-    color: white;
+    color: black;
 }
+
 
 #name{
 	padding-top: 50px;
@@ -52,4 +53,9 @@ a:link {
 }
 #reseumeLink{
 	color:blue;
+}
+#contact_page{
+	margin-top:100px;
+	width:100%;
+	background-color:#E9ECEF;
 }
