@@ -1,64 +1,74 @@
 .nav {
-	background-color: black;
-	font-size: 1.5em;
+  background-color: black;
+  font-size: 1.5em;
 }
 
-.Center{
-	text-align: center;
+.Center {
+  text-align: center;
 }
- 
+
 h1 {
-	margin: 0px;
-	padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
-.jumbotron{
-	margin-top: 150px;
+.jumbotron {
+  margin-top: 150px;
 }
- 
-.body{
-	margin:0px;
-	padding:0px;
+
+.body {
+  margin: 0px;
+  padding: 0px;
 }
 
 .BacktoTop {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 a:visited {
-    color: black;
+  color: black;
 }
 
 a:link {
-    color: black;
+  color: black;
+}
+/* Social Media Page */
+
+.SM_IN {
+  margin-top: 500px;
+}
+.SM_FB {
+  margin-top: 500px;
+}
+.SM_TW {
+  margin-top: 150px;
 }
 
-
-#name{
-	padding-top: 50px;
+#name {
+  padding-top: 50px;
 }
 
-#About_Me{
-	margin-top: 150px;
+#About_Me {
+  margin-top: 150px;
 }
 
-#aboutPic{
-	height: 250px;
+#aboutPic {
+  height: 250px;
 }
-#githubPic{
-	height:150px;
+#githubPic {
+  height: 150px;
 }
 
-#timecampLink{
-	color:blue;
+#timecampLink {
+  color: blue;
 }
-#reseumeLink{
-	color:blue;
+#reseumeLink {
+  color: blue;
 }
-#contact_page{
-	margin-top:100px;
-	width:100%;
-	background-color:#E9ECEF;
+#contact_page {
+  margin-top: 100px;
+  width: 100%;
+  background-color: #e9ecef;
 }
-#projects-cont{
-	margin-top: 250px;
+#projects-cont {
+  margin-top: 250px;
 }
