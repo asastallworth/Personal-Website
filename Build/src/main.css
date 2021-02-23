@@ -1,0 +1,29 @@
+#codeSide {
+  width: 10rem;
+}
+#ComputerHelpIntro {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#computerHelpList {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#helpSide {
+  width: 10rem;
+}
+
+#personalSide {
+  width: 10rem;
+}
+.computerHelpPara {
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.introPara {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
