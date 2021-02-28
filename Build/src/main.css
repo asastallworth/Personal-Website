@@ -31,3 +31,19 @@
 .card {
   width: 20rem;
 }
+
+.computerHelpMainContainer {
+  background-image: url(/Build/src/unsplashMacandPhone.jpg);
+  background-size: cover;
+  color: white;
+}
+.devPage {
+  background-image: url(/Build/src/unsplashDevBackground.jpg);
+  background-size: cover;
+}
+
+.indexPage {
+  background-image: url(/Build/src/unsplashKeyboard.jpg);
+  background-size: cover;
+  color: white;
+}
